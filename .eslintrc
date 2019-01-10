@@ -14,18 +14,7 @@
     "object-curly-newline": 0,
     "prefer-destructuring": 0,
     "react/jsx-uses-react": 2,
-    "react/jsx-uses-vars": 2,
-    // -- JS DOC SPECIFIC
-    "jsdoc/check-param-names": 2,
-    "jsdoc/check-tag-names": 2,
-    "jsdoc/check-types": 2,
-    "jsdoc/newline-after-description": 2,
-    "jsdoc/require-description-complete-sentence": 0,
-    "jsdoc/require-hyphen-before-param-description": 2,
-    "jsdoc/require-param": 2,
-    "jsdoc/require-param-description": 2,
-    "jsdoc/require-param-type": 2,
-    "jsdoc/require-returns-description": 2
+    "react/jsx-uses-vars": 2
   },
   "parserOptions": {
     "ecmaVersion": 6,
